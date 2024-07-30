@@ -1,5 +1,6 @@
 - Description
-  content: |
+  content:
+  
     "Simon Says" is a classic memory game that tests players' ability to remember and repeat a sequence of colors. Each round, the game generates a new sequence that is one color longer than the previous sequence, challenging the player to remember an ever-growing list of colors. The game involves several key steps and features, making it both engaging and challenging.
 
     - **Display Sequence:** The game displays a sequence of colors. Each color is highlighted one at a time for the player to memorize. The sequence starts with a single color and increases by one color with each level.
@@ -10,14 +11,16 @@
 
     This game uses HTML for the structure, CSS for styling, and JavaScript for functionality. It provides an engaging way for players to test and improve their memory skills.
 - Features
-  content: |
+  content:
+  
     - **Interactive Gameplay:** The game is highly interactive, requiring players to actively participate by clicking color buttons.
     - **Progressive Difficulty:** Each level increases the difficulty by adding one more color to the sequence, making the game progressively harder.
     - **Immediate Feedback:** Players receive immediate feedback on their input, knowing right away if they were correct or if the game is over.
     - **Simple User Interface:** The game has a clean and simple user interface, making it easy for players of all ages to understand and enjoy.
     - **Visual and Audio Cues:** The game can be enhanced with visual and audio cues to make it more engaging. For example, each color could have a distinct sound when clicked.
 - How to Play
-  content: |
+  content:
+  
     1. **Starting the Game:** Click the "Start" button to begin the game. This will initiate the first level and display the first sequence of colors.
     2. **Memorize the Sequence:** Watch the sequence of colors as they are highlighted one by one. Pay close attention to the order of the colors.
     3. **Repeat the Sequence:** After the sequence is displayed, repeat the sequence by clicking on the color buttons in the same order.
